@@ -1,6 +1,7 @@
 # Description
 
-Scripted snippets for Adobe After Effects. Each of them has a description in the commented section
+Scripted snippets for Adobe After Effects. Each of them has a usage/settings description in the commented section
+
 
 ## LayerMarkIT.jsx
 
@@ -14,7 +15,6 @@ Creates nulls for each of currently selected layers at their positions (also cop
 
 This script enqueues/renders all of the current composition's areas where the selected layers present. It gives the names of the layers to the output files and adds handles (in seconds, before and after the layers ins/outs) 
 
-
 ## MarkerQueueIT.jsx
 
 This script enqueues/renders all of the current composition's marker areas
@@ -22,6 +22,7 @@ This script enqueues/renders all of the current composition's marker areas
 ## SubNudgeIT.jsx
 
 Subframe layer nudge. Move it back and forth at a fraction of the frame length
+
 
 # Usage
 
