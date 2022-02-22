@@ -1,5 +1,5 @@
 # Description
-Scripting snippets for Adobe After Effects
+Scripted snippets for Adobe After Effects
 
 # Usage
 Use them however you want
