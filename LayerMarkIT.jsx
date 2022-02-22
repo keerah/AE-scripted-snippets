@@ -1,9 +1,9 @@
 // Name: LayerMarkIT  Version: 0.2
 // Author: keerah.com
 // Description: This script creates comp markers for each layer in current selection
-// adding tExtent handles (before and after) to the layers lengths
+// adding tExtent handles (before and after) to the layers lengths in seconds
 //
-// Change the variables in lines 10 - 12 to your output preferences
+// Change the variable in lines 10 to your preferences, 0 = no handles
 
 if (app.project.activeItem != null && app.project.activeItem instanceof CompItem) {
 
