@@ -3,7 +3,7 @@
 // Description: This script creates comp markers for each layer in current selection
 // adding tExtent handles (before and after) to the layers lengths in seconds
 //
-// Change the variable in lines 10 to your preferences, 0 = no handles
+// Change the variable in line 10 to your preferences, 0 = no handles
 
 if (app.project.activeItem != null && app.project.activeItem instanceof CompItem) {
 
